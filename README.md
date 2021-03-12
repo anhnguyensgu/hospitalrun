@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/HospitalRun/design/master/logo/horizontal/logo-on-transparent.png" alt="HospitalRun logo"/>
 
-![Last commit](https://img.shields.io/github/last-commit/hospitalrun/hospitalrun) [![GitHub CI](https://github.com/HospitalRun/hospitalrun/workflows/GitHub%20CI/badge.svg)](https://github.com/HospitalRun/hospitalrun/actions) [![Documentation Status](https://readthedocs.org/projects/hospitalrun/badge/?version=latest)](https://docs.hospitalrun.io) ![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg) ![License](https://img.shields.io/github/license/hospitalrun/hospitalrun) [![Slack](https://hospitalrun-slack.herokuapp.com/badge.svg)](https://hospitalrun-slack.herokuapp.com)
+![Last commit](https://img.shields.io/github/last-commit/hospitalrun/hospitalrun) [![GitHub CI](https://github.com/HospitalRun/hospitalrun/workflows/GitHub%20CI/badge.svg)](https://github.com/HospitalRun/hospitalrun/actions) [![Documentation Status](https://readthedocs.org/projects/hospitalrun/badge/?version=latest)](https://docs.hospitalrun.io) ![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg) ![License](https://img.shields.io/github/license/hospitalrun/hospitalrun) [![Slack](https://hospitalrun-slack.herokuapp.com/badge.svg)](https://hospitalrun-slack.herokuapp.com) ![License](https://img.shields.io/github/license/hospitalrun/hospitalrun) [![OpenUK](https://img.shields.io/badge/OpenUK%20Awards%202020-OSS%20Winner-blue)](https://openuk.uk/awards/)
 
 <hr />
 </div>
@@ -76,7 +76,7 @@ A visual representation of the functionality of all HospitalRun modules and thei
 
 ## Hosted by
 
-[<img src="https://github.com/openjs-foundation/cross-project-council/blob/master/logos/openjsf-color.png?raw=true" width="120px;"/>](https://openjsf.org/projects/#atlarge)
+[<img src="https://openjsf.org/wp-content/uploads/sites/84/2019/03/openjsf-color-textw.svg" width="120px;"/>](https://openjsf.org/projects/#atlarge)
 
 ## Sponsors
 
@@ -103,7 +103,7 @@ Cross-browser Testing Platform and Open Source <3 Provided by [Sauce Labs](https
 ## [Core Contributors](https://github.com/orgs/HospitalRun/teams/core-contributor)
 
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/25089405?s=460&v=4" width="100px;"/><br /><sub><b>Stefano Casasola</b></sub>](https://github.com/irvelervel) |  [<img src="https://avatars2.githubusercontent.com/u/8810755?s=460&u=495b69e528066f88944d8ce487ce39afe01b9ccb&v=4" width="100px;"/><br /><sub><b>Kumiko Kashii</b></sub>](https://github.com/kumikokashii) | [<img src="https://avatars3.githubusercontent.com/u/603924?s=460&v=4" width="100px;"/><br /><sub><b>Grace Lau</b></sub>](https://github.com/lauggh) | [<img src="https://avatars2.githubusercontent.com/u/26657904?s=460&u=d960bf3d95ae0c9bb858f1f069fff03e51254ddb&v=4" width="100px;"/><br /><sub><b>Stefano Miceli</b></sub>](https://github.com/StefanoMiC) | [<img src="https://avatars3.githubusercontent.com/u/5468546?s=460&u=9994e6c82ddc7a7d3d930e84ed58f33aa7e48bec&v=4" width="100px;"/><br /><sub><b>Blessed Tabvirwa</b></sub>](https://github.com/blestab) | [<img src="https://avatars1.githubusercontent.com/u/26514778?s=460&u=74dc17fd89ca5722a7fc55fb147403e34bd1a9ae&v=4" width="100px;"/><br /><sub><b>MaryEtta Morris</b></sub>](https://github.com/morrme) |
+| [<img src="https://avatars3.githubusercontent.com/u/25089405?s=460&v=4" width="100px;"/><br /><sub><b>Stefano Casasola</b></sub>](https://github.com/irvelervel) |  [<img src="https://avatars2.githubusercontent.com/u/8810755?s=460&u=495b69e528066f88944d8ce487ce39afe01b9ccb&v=4" width="100px;"/><br /><sub><b>Kumiko Kashii</b></sub>](https://github.com/kumikokashii) | [<img src="https://avatars3.githubusercontent.com/u/603924?s=460&v=4" width="100px;"/><br /><sub><b>Grace Lau</b></sub>](https://github.com/lauggh) | [<img src="https://avatars2.githubusercontent.com/u/26657904?s=460&u=d960bf3d95ae0c9bb858f1f069fff03e51254ddb&v=4" width="100px;"/><br /><sub><b>Stefano Miceli</b></sub>](https://github.com/StefanoMiC) | [<img src="https://avatars3.githubusercontent.com/u/5468546?s=460&u=9994e6c82ddc7a7d3d930e84ed58f33aa7e48bec&v=4" width="100px;"/><br /><sub><b>Blessed Tabvirwa</b></sub>](https://github.com/blestab) | [<img src="https://avatars1.githubusercontent.com/u/26514778?s=460&u=74dc17fd89ca5722a7fc55fb147403e34bd1a9ae&v=4" width="100px;"/><br /><sub><b>Dr. MaryEtta Morris </b></sub>](https://github.com/morrme) |
 |---|---|---|---|---|---|
 
 ## Medical Supervisor
